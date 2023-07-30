@@ -1,0 +1,6 @@
+Code de création d'un gitignore
+vim .gitignore
+# Ignore the tmp directory
+tmp/
+git add .gitignore
+git commit -m "Add .gitignore to ignore the tmp directory"
